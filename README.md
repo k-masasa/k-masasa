@@ -43,6 +43,6 @@ msfm.kumagai@gmail.com
 
 ## GitHub Activities
 
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=k-masasa&theme=default&layout=compact)](https://github.com/k-masasa)
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=k-masasa&theme=dark&layout=compact)](https://github.com/k-masasa)
 
-![Profile Card](https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=k-masasa&theme=default)
+![Profile Card](https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=k-masasa&theme=dark)
