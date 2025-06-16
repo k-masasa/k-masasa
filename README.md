@@ -11,6 +11,30 @@
 }
 ```
 
+## Skills / Technologies I've Worked With
+
+**Languages & Frameworks**  
+- JavaScript (TypeScript, Nuxt.js, Vue.js, Vuetify, Leaflet.js, Cesium.js, jQuery)  
+- CSS (SCSS, Tailwind CSS)  
+- HTML  
+- Swift  
+- PHP (Laravel, CakePHP)  
+- Node.js (Express)  
+- Python (FastAPI)
+
+**Databases**  
+- MySQL, PostgreSQL, Amazon DynamoDB
+
+**Cloud / Backend**  
+- AWS (EC2, RDS, S3)  
+- Azure (Blob Storage, Queue Storage)  
+- Firebase (Realtime Database)
+
+**Tools / Platforms**  
+- Docker (Docker Compose)  
+- Linux (CentOS, Ubuntu)
+- Xcode
+
 ## Contact
 
 ```email
