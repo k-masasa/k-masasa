@@ -1,11 +1,21 @@
 ## About me
 
+```json
+{
+  "名前": "熊谷 匡史 (ｸﾏｶﾞｲ ﾏｻﾌﾐ)",
+  "出身": "岩手県 花巻市",
+  "現在地": "東京都内",
+  "職歴": "製造業, 飲食業, コールセンター, 現在",
+  "趣味": "掃除, 運動, 料理, 楽器",
+  "家族": "妻, 猫, 猫, 兎, 兎, 兎"
+}
+```
+
 ## Contact
 
-<a href="mailto:msfm.kumagai@gmail.com">
-  <img src="https://img.icons8.com/ios-glyphs/30/000000/new-post.png" alt="email" />
-</a>
-
+```email
+msfm.kumagai@gmail.com
+```
 
 ## GitHub Activities
 
