@@ -1,4 +1,4 @@
-## About me
+# About me
 
 ```json
 {
@@ -11,37 +11,37 @@
 }
 ```
 
-## Skills / Technologies I've Worked With
+# Skills / Technologies I've Worked With
 
-**Languages & Frameworks**  
-- JavaScript (TypeScript, Nuxt.js, Vue.js, Vuetify, Leaflet.js, Cesium.js, jQuery)  
-- CSS (SCSS, Tailwind CSS)  
-- HTML  
-- Swift  
-- PHP (Laravel, CakePHP)  
-- Node.js (Express)  
+## Languages & Frameworks
+- JavaScript (TypeScript, Nuxt.js, Vue.js, Vuetify, Leaflet.js, Cesium.js, jQuery)
+- CSS (SCSS, Tailwind CSS)
+- HTML
+- PHP (Laravel, CakePHP)
+- Node.js (Express)
 - Python (FastAPI)
+- Swift
 
-**Databases**  
+## Databases
 - MySQL, PostgreSQL, Amazon DynamoDB
 
-**Cloud / Backend**  
-- AWS (EC2, RDS, S3)  
-- Azure (Blob Storage, Queue Storage)  
+## Cloud / Backend
+- AWS (EC2, RDS, S3)
+- Azure (Blob Storage, Queue Storage)
 - Firebase (Realtime Database)
 
-**Tools / Platforms**  
-- Docker (Docker Compose)  
+## Tools / Platforms
+- Docker (Docker Compose)
 - Linux (CentOS, Ubuntu)
 - Xcode
 
-## Contact
+# Contact
 
 ```email
 msfm.kumagai@gmail.com
 ```
 
-## GitHub Activities
+# GitHub Activities
 
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=k-masasa&theme=dark&layout=compact)](https://github.com/k-masasa)
 
