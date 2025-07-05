@@ -10,7 +10,7 @@
 }
 ```
 
-# Skills / Technologies I've Worked With
+# Skills
 
 **Languages & Frameworks**
 - JavaScript (TypeScript, Nuxt.js, Vue.js, Vuetify, Leaflet.js, Cesium.js, jQuery)
