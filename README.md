@@ -1,4 +1,4 @@
-# 自己紹介 (About me)
+# About Me
 
 ```json
 {
@@ -11,7 +11,7 @@
 }
 ```
 
-# 主な開発実績 (Main Development Achievements)
+# Main Development Achievements (主な開発実績)
 
 - ホテル予約管理システム (PMS) と iOS チェックインアプリの開発・運用・保守
 - 3D 地形可視化アプリ (Cesium.js使用、災害シミュレーション機能付き)
@@ -19,7 +19,7 @@
 - 医学会向け会員管理システム (3万人規模のメール配信機能)
 - 各種業務システムのレスポンシブ対応、パフォーマンス改善
 
-# 業務で触れた技術 (Technologies Used in Work)
+# Technologies Used in Work　(業務で触れた技術)
 
 **Languages & Frameworks**
 - JavaScript (TypeScript, Nuxt.js, Vue.js, Vuetify, Leaflet.js, Cesium.js, jQuery)
