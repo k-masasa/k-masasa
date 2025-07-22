@@ -18,7 +18,7 @@
 - 医学会向け会員管理システム (3万人規模のメール配信機能, 複数の資格申請機能)
 - そのほか各種業務システムのレスポンシブ対応、パフォーマンス改善など
 
-# Technologies Used in Work　(業務で触れた技術)
+# Technologies Used in Work (業務で触れた技術)
 
 **Languages & Frameworks**
 - JavaScript (TypeScript, Nuxt.js, Vue.js, Vuetify, Leaflet.js, Cesium.js, jQuery)
