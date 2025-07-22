@@ -1,4 +1,4 @@
-# 私について
+# 自己紹介 (About me)
 
 ```json
 {
@@ -11,15 +11,15 @@
 }
 ```
 
-# 主な開発実績
+# 主な開発実績 (Main Development Achievements)
 
-- 3D地形可視化アプリ（Cesium.js使用、災害シミュレーション機能付き）
-- ドローン関連システム（飛行日誌管理、壁面異常検知AI連携）
-- ホテル予約管理システム（PMS）とiOSチェックインアプリ
-- 医学会向け会員管理システム（3万人規模のメール配信機能）
+- ホテル予約管理システム (PMS) と iOS チェックインアプリの開発・運用・保守
+- 3D 地形可視化アプリ (Cesium.js使用、災害シミュレーション機能付き)
+- ドローン関連システム (飛行日誌管理、壁面異常検知AI連携)
+- 医学会向け会員管理システム (3万人規模のメール配信機能)
 - 各種業務システムのレスポンシブ対応、パフォーマンス改善
 
-# 開発スキル
+# 業務で触れた技術 (Technologies Used in Work)
 
 **Languages & Frameworks**
 - JavaScript (TypeScript, Nuxt.js, Vue.js, Vuetify, Leaflet.js, Cesium.js, jQuery)
@@ -54,3 +54,4 @@ msfm.kumagai@gmail.com
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=k-masasa&theme=dark&layout=compact)](https://github.com/k-masasa)
 
 ![Profile Card](https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=k-masasa&theme=dark)
+
