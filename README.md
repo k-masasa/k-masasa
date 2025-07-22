@@ -19,6 +19,11 @@
 - 医学会向け会員管理システム (3万人規模のメール配信機能, 複数の資格申請機能)
 - そのほか各種システムのレスポンシブ対応、パフォーマンス改善、海外エンジニアとの連携開発など
 
+# AI Development Tools (AI開発ツール)
+
+- [GitHub Copilot Coding Agent](https://docs.github.com/ja/copilot/how-tos/agents/copilot-coding-agent)
+- [Claude Code](https://docs.anthropic.com/ja/docs/claude-code/overview)
+
 # Technologies Used in Work (業務で触れた技術)
 
 **Languages & Frameworks**
