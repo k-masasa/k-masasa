@@ -1,10 +1,10 @@
-# GitHub Activities
+# GitHub アクティビティ
 
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=k-masasa&theme=dark&layout=compact)](https://github.com/k-masasa)
 
 ![Profile Card](https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=k-masasa&theme=dark)
 
-# Main Development Achievements (主な開発実績)
+# 主な開発実績
 
 - ホテル予約管理システム (PMS) と iOS チェックインアプリの開発・運用・保守
 - 3D 地形可視化アプリ (Cesium.js使用、災害シミュレーション機能付き)
@@ -12,12 +12,12 @@
 - 医学会向け会員管理システム (3万人規模のメール配信機能, 複数の資格申請機能)
 - そのほか各種システムのレスポンシブ対応、パフォーマンス改善、海外エンジニアとの連携開発など
 
-# AI used in development (開発で使用する AI)
+# 開発で使用する AI
 
 - [GitHub Copilot Coding Agent](https://docs.github.com/ja/copilot/how-tos/agents/copilot-coding-agent)
 - [Claude Code](https://docs.anthropic.com/ja/docs/claude-code/overview)
 
-# Technologies Used in Work (業務で触れた技術)
+# 業務で触れた技術
 
 **Languages & Frameworks**
 - JavaScript (TypeScript, Nuxt.js, Vue.js, Vuetify, Leaflet.js, Cesium.js, jQuery)
@@ -41,7 +41,7 @@
 - Linux (CentOS, Ubuntu)
 - Xcode
 
-# Contact
+# 連絡先
 
 ```email
 msfm.kumagai@gmail.com
