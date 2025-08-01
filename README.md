@@ -1,3 +1,9 @@
+# GitHub Activities
+
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=k-masasa&theme=dark&layout=compact)](https://github.com/k-masasa)
+
+![Profile Card](https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=k-masasa&theme=dark)
+
 # Main Development Achievements (主な開発実績)
 
 - ホテル予約管理システム (PMS) と iOS チェックインアプリの開発・運用・保守
@@ -40,10 +46,3 @@
 ```email
 msfm.kumagai@gmail.com
 ```
-
-# GitHub Activities
-
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=k-masasa&theme=dark&layout=compact)](https://github.com/k-masasa)
-
-![Profile Card](https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=k-masasa&theme=dark)
-
