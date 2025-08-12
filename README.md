@@ -17,7 +17,7 @@
 - [GitHub Copilot Coding Agent](https://docs.github.com/ja/copilot/how-tos/agents/copilot-coding-agent)
 - [Claude Code](https://docs.anthropic.com/ja/docs/claude-code/overview)
 
-# 業務で触れた技術
+# スキル
 
 **Languages & Frameworks**
 - JavaScript (TypeScript, Nuxt.js, Vue.js, Vuetify, Leaflet.js, Cesium.js, jQuery)
