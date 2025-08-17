@@ -40,9 +40,3 @@
 - Docker (Docker Compose)
 - Linux (CentOS, Ubuntu)
 - Xcode
-
-# 連絡先
-
-```email
-msfm.kumagai@gmail.com
-```
