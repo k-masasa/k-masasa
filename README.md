@@ -24,8 +24,8 @@
 **Database**  
 [![Database](https://skillicons.dev/icons?i=mysql,postgres)](https://skillicons.dev)
 
-**Cloud**  
-[![Cloud](https://skillicons.dev/icons?i=aws,azure)](https://skillicons.dev)
+**Cloud & Infrastructure**  
+[![Cloud](https://skillicons.dev/icons?i=aws,azure,docker)](https://skillicons.dev)
 
 ## GitHub Activity
 
