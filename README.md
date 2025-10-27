@@ -27,9 +27,9 @@
 **Cloud & Infrastructure**  
 [![Cloud](https://skillicons.dev/icons?i=aws,azure,docker)](https://skillicons.dev)
 
-🔪🍖🍺🍳🍣🍝🍷
-
 ![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=k-masasa&layout=compact&theme=dark)
+
+🔪🍖🍺🍳🍣🍝🍷
 
 ## 好きなもの
 
