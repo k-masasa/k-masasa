@@ -2,7 +2,7 @@
 
 🛠️🚗🎸🍷🔪🍖🥩🍺🍶🍳🍣🍝📞🧑‍💻
 
-## 業務で触れた技術
+## 開発で使用経験のある技術
 
 **Frontend**  
 [![Frontend](https://skillicons.dev/icons?i=ts,js,html,css,vue,nuxtjs,react,jquery)](https://skillicons.dev)
