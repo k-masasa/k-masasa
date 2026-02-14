@@ -3,6 +3,6 @@
 
 <picture>
   <source media="(prefers-color-scheme: dark)" srcset="https://github-readme-activity-graph.vercel.app/graph?username=k-masasa&bg_color=64456b&color=fff&line=b691bf&point=fff&area=true&area_color=79378a&title_color=fff&grid=e0e0e0">
-  <source media="(prefers-color-scheme: light)" srcset="https://github-readme-activity-graph.vercel.app/graph?username=k-masasa&bg_color=ffffff&color=333333&line=79378a&point=79378a&area=true&area_color=79378a&title_color=79378a&grid=e0e0e0">
-  <img alt="Activity Graph" src="https://github-readme-activity-graph.vercel.app/graph?username=k-masasa&bg_color=ffffff&color=333333&line=79378a&point=79378a&area=true&area_color=79378a&title_color=79378a&grid=e0e0e0">
+  <source media="(prefers-color-scheme: light)" srcset="https://github-readme-activity-graph.vercel.app/graph?username=k-masasa&bg_color=ffffff&color=333333&line=a855b5&point=79378a&area=true&area_color=79378a&title_color=79378a&grid=e0e0e0">
+  <img alt="Activity Graph" src="https://github-readme-activity-graph.vercel.app/graph?username=k-masasa&bg_color=ffffff&color=333333&line=a855b5&point=79378a&area=true&area_color=79378a&title_color=79378a&grid=e0e0e0">
 </picture>
