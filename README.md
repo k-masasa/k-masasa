@@ -15,3 +15,6 @@ I make it a habit to do strength training and meditation at home.
 I enjoy spending time cleaning.
 
 I've been deaf in one ear since 3.11, 2011 — the blackout kept me from reaching a hospital in time, and my hearing never returned.
+
+I can hold normal conversations just fine, but I tend to ask people to repeat themselves more often than most.
+
