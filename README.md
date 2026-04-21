@@ -2,7 +2,7 @@ Hi.
 
 I mostly write JavaScript and PHP for work.
 
-My favorite color is this purple.
+My favorite color is this ![purple](https://img.shields.io/badge/purple-79378a?style=flat).
 
 I live with my cats, Tamago and Gomoku.
 
