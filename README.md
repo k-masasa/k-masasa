@@ -1,2 +1,17 @@
+Hi. (°▽°)
 
-[![Typing SVG](https://readme-typing-svg.demolab.com?duration=1500&font=Fira+Code&size=16&width=1000&height=180&color=79378a&multiline=true&repeat=true&lines=Hi.+(%C2%B0%E2%96%BD%C2%B0);I+mostly+write+JavaScript+and+PHP+for+work.;My+favorite+color+is+this+purple.;I+live+with+my+cats%2C+Tamago+and+Gomoku.;I've+been+playing+guitar+since+I+was+12.;My+specialty+dish+is+pasta.;I+make+it+a+habit+to+do+strength+training+and+meditation+at+home.;I+enjoy+spending+time+cleaning.)](https://git.io/typing-svg)
+I mostly write JavaScript and PHP for work.
+
+My favorite color is this purple.
+
+I live with my cats, Tamago and Gomoku.
+
+I've been playing guitar since I was 12.
+
+My specialty dish is pasta.
+
+I make it a habit to do strength training and meditation at home.
+
+I enjoy spending time cleaning.
+
+I've been deaf in one ear since 3.11, 2011 — the blackout kept me from reaching a hospital in time, and my hearing never returned.
