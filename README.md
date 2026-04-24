@@ -21,3 +21,5 @@ I've been deaf in one ear since 3.11, 2011 — the blackout kept me from reachin
 I can hold normal conversations just fine, but I tend to ask people to repeat themselves more often than most.
 
 Anyway, nice to meet you. (°▽°)
+
+> https://www.notion.so/mkwebappdev/35cb33dafbdf47de89dafce08184e5af
