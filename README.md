@@ -22,4 +22,3 @@ I can hold normal conversations just fine, but I tend to ask people to repeat th
 
 Anyway, nice to meet you. (°▽°)
 
-> https://www.notion.so/mkwebappdev/35cb33dafbdf47de89dafce08184e5af
