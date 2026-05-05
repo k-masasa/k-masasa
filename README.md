@@ -20,5 +20,7 @@ I've been deaf in one ear since 3.11, 2011 — the blackout kept me from reachin
 
 I can hold normal conversations just fine, but I tend to ask people to repeat themselves more often than most.
 
+If you'd like to know me better, my [about](https://github.com/k-masasa/about) page goes a bit deeper.
+
 Anyway, nice to meet you. (°▽°)
 
