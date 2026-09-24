@@ -1,6 +1,6 @@
 ### # 最近の活動
 
 <picture>
-  <source media="(prefers-color-scheme: dark)" srcset="./activity-dark.svg?v=88050a38">
-  <img alt="直近8週 (8/3 ~ 9/25) の活動。仕事 42日、運動 17日、学習 0日。" src="./activity-light.svg?v=84e18eb3">
+  <source media="(prefers-color-scheme: dark)" srcset="./activity-dark.svg">
+  <img alt="直近8週 (8/3 ~ 9/25) の活動。仕事 42日、運動 17日、学習 0日。" src="./activity-light.svg">
 </picture>
